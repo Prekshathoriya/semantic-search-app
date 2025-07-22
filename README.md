@@ -17,7 +17,6 @@ Built with:
 - Enter any search query — not limited to keywords!
 - Uses powerful **semantic similarity** for meaningful results
 - View top relevant sentences from your documents
-- Includes a clear/reset button
 - Deployed live via Streamlit Cloud 🚀
 
 ---
